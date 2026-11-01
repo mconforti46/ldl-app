@@ -1,0 +1,32 @@
+{
+  "id": "/?ldl-app=18802",
+  "name": "LDL Fantasy Football",
+  "short_name": "LDL",
+  "description": "LDL league site on MyFantasyLeague",
+  "start_url": "https://www44.myfantasyleague.com/2026/home/18802",
+  "scope": "https://www44.myfantasyleague.com/",
+  "display": "standalone",
+  "background_color": "#000c1e",
+  "theme_color": "#020b18",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/ldl-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/ldl-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/ldl-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
